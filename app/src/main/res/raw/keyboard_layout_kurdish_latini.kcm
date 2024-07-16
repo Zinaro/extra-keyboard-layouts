@@ -109,7 +109,7 @@ key 7 {
   base: '7'
   shift: '\u0026'
   capslock+shift: '\u0026'
-  ralt: '\u0300'
+  ralt: '\u007b'
 }
 
 key 8 {
@@ -117,7 +117,7 @@ key 8 {
   base: '8'
   shift: '\u002a'
   capslock+shift: '\u002a'
-  ralt: '\u0307'
+  ralt: '\u005b'
 }
 
 key 9 {
@@ -125,7 +125,7 @@ key 9 {
   base: '9'
   shift: '\u0028'
   capslock+shift: '\u0028'
-  ralt: '\u0301'
+  ralt: '\u005d'
 }
 
 key 0 {
@@ -133,7 +133,7 @@ key 0 {
   base: '0'
   shift: '\u0029'
   capslock+shift: '\u0029'
-  ralt: '\u030B'
+  ralt: '\u007d'
 }
 
 key MINUS {
